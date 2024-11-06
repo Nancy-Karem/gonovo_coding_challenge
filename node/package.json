@@ -1,0 +1,16 @@
+{
+  "name": "gonovo_coding_challenge",
+  "version": "1.0.0",
+  "description": "Coding challenge to merge two sorted arrays via an API endpoint.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
